@@ -14,4 +14,4 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 4. What are the three step of creating a successful test? What is done in each phase?
     Arrange: Render element(s) to the DOM. 
     Act: Execute specific user action(s).
-    Assert: Check to see if what you expect to see on the screen after the user actions is in fact on the screen.
+    Assert: Check to see if what you expect to see on the screen after the user actions occur is in fact on the screen.
